@@ -65,3 +65,6 @@ def validBraces(string):
         string = string.replace('[]', '')
     return False if len(string) != 0 else True
 '''
+
+class Objektas:
+    pass
